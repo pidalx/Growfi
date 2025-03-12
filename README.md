@@ -22,7 +22,7 @@ A FastAPI-based backend for GROWFI, a personal finance management system with AI
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/growfi-backend.git
+git clone https://github.com/pidalx/growfi-backend.git
 cd growfi-backend
 ```
 
